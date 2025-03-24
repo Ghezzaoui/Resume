@@ -1,0 +1,33 @@
+body{
+    font-family: 'Times New Roman';
+    margin: 100px;
+    margin-top: 20px;
+}
+.header{
+    display: flex;
+    justify-content: space-between; /* Distribute space between elements */
+    align-items: center; /* Vertically align elements */
+    padding: 20px;
+       
+}
+.icon{
+    width: 13px;
+    height: 13px;
+}
+#me{
+    width: 200px;
+    height: 200px;
+}
+#name{
+    padding-left: 20px;
+}
+.indent{
+    text-indent: 20px;
+}
+.title{
+    
+    color:blue;
+}
+.text {
+    font-size: 13px;
+}
